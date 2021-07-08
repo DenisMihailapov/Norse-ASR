@@ -1,6 +1,6 @@
 # Обработка речевых сигналов импульсными нейронными сетями
-<a href="https://nsu.ru"><img alt="NSU Logo" src="https://www.nsu.ru/upload/iblock/6e4/NSU_logo_English_Green.svg"></a>
-<a href="https://www.nsu.ru/n/mathematics-mechanics-department/"><img width="100" alt="MMF NSU Logo" src="https://sun9-28.userapi.com/impg/jonZ8iNpeZvjklhKeNEiCs19g_29lmOQ1oxX7w/IJXl_DVihKY.jpg?size=1000x1000&quality=96&sign=cdd1d15212699e8fdeb5c67db4eb69e4&type=album"></a>
+<a href="https://english.nsu.ru/"><img alt="NSU Logo" src="https://www.nsu.ru/upload/iblock/6e4/NSU_logo_English_Green.svg"></a>
+<a href="https://www.english.nsu.ru/n/mathematics-mechanics-department/"><img width="100" alt="MMF NSU Logo" src="https://sun9-28.userapi.com/impg/jonZ8iNpeZvjklhKeNEiCs19g_29lmOQ1oxX7w/IJXl_DVihKY.jpg?size=1000x1000&quality=96&sign=cdd1d15212699e8fdeb5c67db4eb69e4&type=album"></a>
 
 **Новосибирский государственный университет, Механико-математический факультет, Кафедра вычислительных систем**
 
