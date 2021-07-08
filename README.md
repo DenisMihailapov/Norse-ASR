@@ -26,7 +26,9 @@
  * [AudioLoader.py](https://github.com/DenisMihailapov/Norse-ASR/blob/main/Utils/AudioLoader.py) -- утилита для работы с аудиофайлами.
  * [SpikeUtils.py](https://github.com/DenisMihailapov/Norse-ASR/blob/main/Utils/SpikeUtils.py) -- утилита для работы со спайковыми последовотельностями (почти не использовалась).
 
+## Данные на Googl drive
+По следующим ссылкам можно получить доступ ко всем сохранённым моделям <a href="https://drive.google.com/drive/folders/1l4v2hvVaBlslLg54dugCF6AvMJnkvsm_?usp=sharing"><img width="32" alt="Google Drive with all image data" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Logo_of_Google_Drive_%282012-2014%29.svg/32px-Logo_of_Google_Drive_%282012-2014%29.svg.png"></a> и к папкам со спектрограммами <a href="https://drive.google.com/drive/folders/1WXKYQeFa2wTinAZ_7Pkv4LB3GJIbF_X9?usp=sharing"><img width="32" alt="Google Drive with all image data" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Logo_of_Google_Drive_%282012-2014%29.svg/32px-Logo_of_Google_Drive_%282012-2014%29.svg.png"></a>
 
 
-Данные:
-<a href="https://drive.google.com/drive/folders/1WXKYQeFa2wTinAZ_7Pkv4LB3GJIbF_X9?usp=sharing"><img width="32" alt="Google Drive with all image data" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Logo_of_Google_Drive_%282012-2014%29.svg/32px-Logo_of_Google_Drive_%282012-2014%29.svg.png"></a>
+_________________
+2021г
