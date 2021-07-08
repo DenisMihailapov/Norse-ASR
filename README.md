@@ -27,7 +27,7 @@
 
 В папке [Notebook](https://github.com/DenisMihailapov/Norse-ASR/tree/main/Notebook) собраны все ноутбуки с чиленными экспериментами. Каждый ноутбук подписан в соответствии с распознаваемым набором данных.
 
-В папке [Utils](https://github.com/DenisMihailapov/Norse-ASR/tree/main/Utils) собран исходный код утилит, написанных в ходе исследования. 
+В папке [Utils](https://github.com/DenisMihailapov/Norse-ASR/tree/main/Utils) собран исходный код утилит, написанных в ходе работы: 
  * [AudioLoader.py](https://github.com/DenisMihailapov/Norse-ASR/blob/main/Utils/AudioLoader.py) -- утилита для работы с аудиофайлами.
  * [SpikeUtils.py](https://github.com/DenisMihailapov/Norse-ASR/blob/main/Utils/SpikeUtils.py) -- утилита для работы со спайковыми последовотельностями (почти не использовалась).
  * [Quant.py](https://github.com/DenisMihailapov/Norse-ASR/blob/main/Utils/Quant.py) -- код метода квантования весов модели.
